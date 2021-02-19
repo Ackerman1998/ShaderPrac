@@ -1,0 +1,22 @@
+# Carpetas
+
+/Library/
+/Private/
+/Builds/
+/.vs/
+/.idea/
+/.log/
+*.pch
+*.pdb
+*.dep
+*.idb
+*.suo
+*.ncb
+
+*.lib
+BuildLog.htm
+*.exp
+*.manifest
+*.user
+*.asset
+Assets/.qframework/PackageManager/PackageInfosRequestCache.json
